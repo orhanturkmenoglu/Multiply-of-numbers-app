@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Numbers For Kids</string>
+    <string name="tables">Tables</string>
+    <string name="Learn">Learn</string>
+    <string name="Pratice">Pratice</string>
+    <string name="Rate">Rate us ?</string>
+    <string name="activity_tables">TABLES</string>
+    <string name="activity_Learn">LEARN</string>
+    <string name="activity_Pratice">PRATICE</string>
+</resources>

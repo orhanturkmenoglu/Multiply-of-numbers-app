@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sayılar Çarpma</string>
+    <string name="tables">Tablolar</string>
+    <string name="Learn">Öğrenme</string>
+    <string name="Pratice">Test</string>
+    <string name="Rate">Bize oy verin ?</string>
+    <string name="activity_tables">TABLOLAR</string>
+    <string name="activity_Learn">ÖĞRENME</string>
+    <string name="activity_Pratice">TEST</string>
+</resources>
